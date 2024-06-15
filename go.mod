@@ -1,4 +1,4 @@
-module gofbat
+module github.com/SeveFP/gofbat
 
 go 1.21.0
 
